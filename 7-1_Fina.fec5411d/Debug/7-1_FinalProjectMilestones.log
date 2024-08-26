@@ -1,0 +1,13 @@
+﻿  SceneManager.cpp
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(224,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(455,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(612,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(645,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(645,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(645,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(709,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(709,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(709,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\Alex\Desktop\School\CS-330\Module1\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
